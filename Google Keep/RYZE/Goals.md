@@ -1,0 +1,31 @@
+---
+tags:
+  - Keep/Pinned
+---
+
+
+- [ ] sleep 7 hours daily
+- [ ] Start working out
+- [ ] Communication Improvement
+- [ ] Make money 10K monthly (350 daily)
+- [ ] Clear dept
+- [ ] Change car
+- [ ] Upgrade PC
+- [ ] Save 30k
+- [ ] Buy gold
+- [ ] Get property in BD
+- [ ] Personal development
+- [ ] Misogi
+- [ ] Get degree
+- [ ] Get RTX5070ti/3080ti
+- [X] Switch sim ID
+- [X] Get Villa
+- [X] Fix UAE pass
+- [X] Update Doc on MOI
+- [X] Pray daily
+- [X] Shower daily
+- [X] Marriage certificate attestation
+- [X] Take license
+- [X] Get car
+- [X] Buy Airpods and Apple watch
+- [X] Fix bank account
