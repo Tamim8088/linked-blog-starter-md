@@ -1,8 +1,3 @@
----
-tags:
-  - Keep/Pinned
----
-
 
 - [ ] sleep 7 hours daily
 - [ ] Start working out
