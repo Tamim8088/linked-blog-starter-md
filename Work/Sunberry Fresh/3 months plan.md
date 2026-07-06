@@ -1,1 +1,4 @@
-Hire:- Graphic designer- Videographer- Social media &
+Hire:
+- Graphic designer 
+- Videographer
+- Social media manager & content writer 
