@@ -1,7 +1,5 @@
 ---
 tags:
-  - Keep/Attachment
-  - Keep/Label/Prayer
 ---
 
 Fajr - 2 sunnah, 2 farz
